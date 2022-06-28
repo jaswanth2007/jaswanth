@@ -6,3 +6,4 @@ main()
 "hellop world";
 getch
 }
+hi
